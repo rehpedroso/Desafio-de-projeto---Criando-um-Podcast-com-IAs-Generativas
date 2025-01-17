@@ -3,7 +3,7 @@
 Neste projeto foi criado um podcast utilizando algumas ferramentas de IA através de prompts para criar cada etapa do processo.
 
 #Tecnologias utilizadas
-- [ChatGPT] (https://chat.openai.com/)
+- [ChatGPT](https://chat.openai.com/)
 - https://app.leonardo.ai/
 - https://beta.elevenlabs.io/
 - https://www.capcut.com/pt-br/
