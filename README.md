@@ -4,9 +4,9 @@ Neste projeto foi criado um podcast utilizando algumas ferramentas de IA atravé
 
 #Tecnologias utilizadas
 - [ChatGPT](https://chat.openai.com/)
-- https://app.leonardo.ai/
-- https://beta.elevenlabs.io/
-- https://www.capcut.com/pt-br/
+- [Leonardo.ia](https://app.leonardo.ai/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [CapCut](https://www.capcut.com/pt-br/)
 
 # Como foi feito?
 - Roteiro gerado via chatgpt
@@ -22,4 +22,4 @@ Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para
 3. Use os prompts de artes no leonardo.ia
 
 #Materiais
-https://www.notion.so/repedroso-estudos-dio/PAS-Podcast-AI-Studio-An-lise-de-dados-17eafdde874d80d19f44fe61a4bb2693?pvs=4
+[Notion Template](https://www.notion.so/repedroso-estudos-dio/PAS-Podcast-AI-Studio-An-lise-de-dados-17eafdde874d80d19f44fe61a4bb2693?pvs=4)
